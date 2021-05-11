@@ -1,5 +1,5 @@
 body {
-    background-color: #FFEAE0;
+    background: url(https://res.cloudinary.com/drewzawmk/image/upload/v1620731611/tumblr_e3e87242b6cbae3cba30dbf42b888697_e8eb7477_2048_zqtocz.jpg);
 }
 
 .header {
@@ -10,14 +10,6 @@ body {
     left: 0px;
 }
 
-.son {
-    position: fixed;
-    background-color: white;
-    height: 20%;
-    width: 100%;
-    bottom: 0px;
-    left: 0px;
-}
 
 .menu {
     width: 100%;
