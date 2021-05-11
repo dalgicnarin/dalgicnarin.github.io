@@ -12,6 +12,11 @@ body {
     left: 0px;
 }
 
+h1,
+h2{
+     font-family: "Open Sans Condensed";
+    font-size: 25px;
+}
 
 .menu {
     width: 100%;
